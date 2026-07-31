@@ -1,6 +1,7 @@
 [
   {
     "title": "v1.1.0大版本更新",
+    "subtitle": "Subtitle Test",
     "content": "Update(v1.0.1_rels -> v1.1.0_rels)\n大更新\n\nWhat Has Changed?\n<New>重构为单Activity + Navigation,预测性返回手势支持。\n<New>全新的Wear Material UI,致力优秀的腕上体验。\n<New>新功能，Shell命令。自定义Shell执行，支持Root和非Root执行。\n<New>新功能，云控检查。对手表数据库检索分析得到的云控数据，可以展示云控剩余天数，微聊禁言起止日期。\n<New>新功能，圆屏布局。对于小天才设备其实没什么用处，但是用了wear compose不写圆屏不给它面子对罢（）。支持开启或关闭。\n<New>MenuScreen,删掉了原来的TopBar,现在在主页可以通过菜单访问设置页，后续会在此分类功能。\n<Optimization>界面缩放精确到0.01x调整。\n<Optimization>启动时启用Splash加载,避免了启动应用时的白屏。\n<Optimization>避免了切换Screen的白屏。\n<Optimization>错别字纠正。",
     "startDate": "1785419434000",
     "pinned": true
